@@ -1,0 +1,24 @@
+.body-class {background-color: #7BAFD4; }
+
+.header-class {background-color: #13294B;
+ color: white;}
+ 
+ .nav-class { background-color:white;
+  color: black}
+ 
+ .title-class{
+ color: white}
+ .section-title-class { color:#13294B}
+ 
+.text-class{color: white}
+ 
+ .image-class { border-color: yellow;
+ border-style:double}
+ 
+.form-class{color: white}
+
+input{ background-color: grey}
+.button-class{background-color: orange}
+
+.footer-class {background-color: #13294B;
+color: white }
